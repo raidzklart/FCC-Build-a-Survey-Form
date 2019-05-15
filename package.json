@@ -1,0 +1,20 @@
+{
+  "name": "survery-form",
+  "version": "1.0.0",
+  "description": "My interpretation of FreeCodeCamp Responsive Web Design Projects - Build a Survey Form",
+  "main": "index.js",
+  "scripts": {
+    "deplot": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raidzklart/FCC-Build-a-Survey-Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raidzklart/FCC-Build-a-Survey-Form/issues"
+  },
+  "homepage": "https://raidzklart.github.io/FCC-Build-a-Survey-Form"
+}
